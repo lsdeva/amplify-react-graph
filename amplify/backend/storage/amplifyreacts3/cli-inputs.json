@@ -1,0 +1,14 @@
+{
+  "resourceName": "amplifyreacts3",
+  "policyUUID": "fcf565ed",
+  "bucketName": "amplifyreactgraphc43120f807c54622b34cb443249bfa",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
